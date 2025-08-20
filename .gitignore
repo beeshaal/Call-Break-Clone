@@ -1,0 +1,70 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+UserSettings/
+
+# Visual Studio / Rider files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Unity auto-generated meta files
+*.pidb.meta
+*.bak
+*.swp
+*.tmp
+*.userprefs
+*.old
+
+# IDE specific files
+.idea/
+.vscode/
+.vs/
+
+# TextMesh Pro files
+[Tt]extMeshPro/
+
+# Scriptable Object auto-generated files
+*.so
+*.rlib
+
+# Cache files
+/[Aa]ssets/AssetStoreTools*
+
+# Unity build cache files
+*.crunch
+*.cache
+
+# Other files
+*.DS_Store
+*.apk
+*.unitypackage
+*.lock
+*.log
+
+# MacOS-specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux-specific files
+*~
